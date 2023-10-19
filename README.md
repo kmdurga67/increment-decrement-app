@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-Follow these steps to set up and run the BMI Calculator project:
+Follow these steps to set up and run the Increment-decrement-app project:
 
 1. **Clone the repository:**
 
